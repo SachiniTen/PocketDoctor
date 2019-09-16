@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e4742e34912c53a40a906f0c4ea3e58a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\48cb7d4bddec881c4bdb6b3e002a0b98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09ff8afaf94195fb6117dfc81eef0147\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\89f4456cd3f28b7368bfa1cac6b900f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e4805ecfcaf92f5dac73a69758f94f9b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\d907766dfe012147cf9bb6ef0e8ba49e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\7a3a07bec154f189fba0606a5c0596e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\820fe5f21371d4ed78bf32f90ad74cdb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\43b63b5681f49092ff9e60fbca4a6263\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\acc06f3ebb7aa4c76f29e7e856bcfc5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\a4e7d12ae60bedde6786ffdfda8c9f76\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\b19bac31005469d6a52cc31910812688\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\28836b8024fecfbc94f386166f4f4c99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\a299e72bbbef6fcf9c1278542bb43325\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\362cdd0fdf1ae955ac738af205536d2a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\df0a62e851832ec9f1c91487922969b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\ba9d5b3200004f91d3e836b4a15e3993\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\99b31affc95a660cb81716c2461069f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09e5a3753642a283403c73e8ed3f668e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\818a2b3aaa486bb4f002792240465a36\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\57e4e4bd83439c289599c110e8fffb68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\5b3cbb8ecb0ca54a60f71b61c9b02cde\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\197408b3706eb3dfa871c4408965bb98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\77725d7d8604208a06eff9917448b6c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\8823b2f79810b83bededb88a8b032f2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\3d37738cffe88953cba254d2edbbb54a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e7591b957b17dc455ae6f58d330d6997\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\0f42c39251cf3c1033b13959d3c15bb2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\3fce00af8999cb806f73a31cd6fffd4d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\6c03c416b11703a8247b7d5d29d50c4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\fd10ad37f8c95a002f8d774d56f925f7\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+	package
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:1-143:12
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:5:5-141:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e4742e34912c53a40a906f0c4ea3e58a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e4742e34912c53a40a906f0c4ea3e58a\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09ff8afaf94195fb6117dfc81eef0147\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09ff8afaf94195fb6117dfc81eef0147\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09e5a3753642a283403c73e8ed3f668e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09e5a3753642a283403c73e8ed3f668e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\818a2b3aaa486bb4f002792240465a36\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\818a2b3aaa486bb4f002792240465a36\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09e5a3753642a283403c73e8ed3f668e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.healthcare.nurse_profile2
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:12:9-106
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:12:50-94
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:12:19-49
+activity#com.example.healthcare.doc_profile2
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:13:9-15:69
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:15:13-57
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:14:13-41
+activity#com.example.healthcare.choose_profile
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:18:13-55
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:17:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.healthcare.choose_register
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:27:13-55
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:26:13-44
+activity#com.example.healthcare.services
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:35:13-37
+activity#com.example.healthcare.login
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:43:9-51:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:45:13-55
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:44:13-34
+activity#com.example.healthcare.patient_profile
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:54:13-57
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:53:13-44
+activity#com.example.healthcare.aboutUs
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:63:13-55
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:62:13-36
+activity#com.example.healthcare.Register_PatientActivity
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:70:9-78:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:72:13-58
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:71:13-53
+activity#com.example.healthcare.Register_DoctorActivity
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:79:9-87:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:81:13-58
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:80:13-52
+activity#com.example.healthcare.regNurses
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:88:9-96:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:90:13-58
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:89:13-38
+activity#com.example.healthcare.requestform
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:97:9-99:54
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:99:13-51
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:98:13-40
+activity#com.example.healthcare.Alarm_item
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:100:9-106:20
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:100:19-45
+activity#com.example.healthcare.AddRemainderActivity
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:107:9-115:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:109:13-53
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:108:13-49
+activity#com.example.healthcare.alarm_home
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:116:9-124:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:118:13-55
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:117:13-39
+activity#com.example.healthcare.MainActivity
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:125:9-131:20
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:125:19-47
+activity#com.example.healthcare.nurse_profile
+ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:132:9-140:20
+	android:parentActivityName
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:134:13-57
+	android:name
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml:133:13-42
+uses-sdk
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e4742e34912c53a40a906f0c4ea3e58a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e4742e34912c53a40a906f0c4ea3e58a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\48cb7d4bddec881c4bdb6b3e002a0b98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\48cb7d4bddec881c4bdb6b3e002a0b98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09ff8afaf94195fb6117dfc81eef0147\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09ff8afaf94195fb6117dfc81eef0147\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\89f4456cd3f28b7368bfa1cac6b900f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\89f4456cd3f28b7368bfa1cac6b900f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e4805ecfcaf92f5dac73a69758f94f9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e4805ecfcaf92f5dac73a69758f94f9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\d907766dfe012147cf9bb6ef0e8ba49e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\d907766dfe012147cf9bb6ef0e8ba49e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\7a3a07bec154f189fba0606a5c0596e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\7a3a07bec154f189fba0606a5c0596e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\820fe5f21371d4ed78bf32f90ad74cdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\820fe5f21371d4ed78bf32f90ad74cdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\43b63b5681f49092ff9e60fbca4a6263\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\43b63b5681f49092ff9e60fbca4a6263\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\acc06f3ebb7aa4c76f29e7e856bcfc5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\acc06f3ebb7aa4c76f29e7e856bcfc5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\a4e7d12ae60bedde6786ffdfda8c9f76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\a4e7d12ae60bedde6786ffdfda8c9f76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\b19bac31005469d6a52cc31910812688\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\b19bac31005469d6a52cc31910812688\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\28836b8024fecfbc94f386166f4f4c99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\28836b8024fecfbc94f386166f4f4c99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\a299e72bbbef6fcf9c1278542bb43325\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\a299e72bbbef6fcf9c1278542bb43325\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\362cdd0fdf1ae955ac738af205536d2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\362cdd0fdf1ae955ac738af205536d2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\df0a62e851832ec9f1c91487922969b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\df0a62e851832ec9f1c91487922969b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\ba9d5b3200004f91d3e836b4a15e3993\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\ba9d5b3200004f91d3e836b4a15e3993\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\99b31affc95a660cb81716c2461069f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\99b31affc95a660cb81716c2461069f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09e5a3753642a283403c73e8ed3f668e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\09e5a3753642a283403c73e8ed3f668e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\818a2b3aaa486bb4f002792240465a36\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\818a2b3aaa486bb4f002792240465a36\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\57e4e4bd83439c289599c110e8fffb68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\57e4e4bd83439c289599c110e8fffb68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\5b3cbb8ecb0ca54a60f71b61c9b02cde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\5b3cbb8ecb0ca54a60f71b61c9b02cde\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\197408b3706eb3dfa871c4408965bb98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\197408b3706eb3dfa871c4408965bb98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\77725d7d8604208a06eff9917448b6c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\77725d7d8604208a06eff9917448b6c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\8823b2f79810b83bededb88a8b032f2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\8823b2f79810b83bededb88a8b032f2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\3d37738cffe88953cba254d2edbbb54a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\3d37738cffe88953cba254d2edbbb54a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e7591b957b17dc455ae6f58d330d6997\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\e7591b957b17dc455ae6f58d330d6997\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\0f42c39251cf3c1033b13959d3c15bb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\0f42c39251cf3c1033b13959d3c15bb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\3fce00af8999cb806f73a31cd6fffd4d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\3fce00af8999cb806f73a31cd6fffd4d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\6c03c416b11703a8247b7d5d29d50c4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\6c03c416b11703a8247b7d5d29d50c4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\fd10ad37f8c95a002f8d774d56f925f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sachini\.gradle\caches\transforms-2\files-2.1\fd10ad37f8c95a002f8d774d56f925f7\AndroidManifest.xml:20:5-44
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+		ADDED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
+		INJECTED from F:\HealthCare (2) (1)\HealthCare\app\src\main\AndroidManifest.xml
